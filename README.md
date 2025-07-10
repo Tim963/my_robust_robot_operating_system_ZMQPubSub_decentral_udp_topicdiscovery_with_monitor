@@ -1,2 +1,5 @@
 # my_robust_robot_operating_system_ZMQPubSub_decentral_udp_topicdiscovery_with_monitor
 custom python based robot_operating_system created for educational purpose
+
+camera pub
+camera sub
